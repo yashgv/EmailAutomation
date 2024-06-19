@@ -24,9 +24,9 @@ def add_logo(logo_path, width, height, radius):
 
 db = mysql.connector.connect(
     host="sql12.freesqldatabase.com",
-    user="sql12714086",
-    password="fAbSxAerrP",
-    database="sql12714086",
+    user="pass",
+    password="pass",
+    database="pass",
     port=3306
 )
 st.set_page_config(
