@@ -1,10 +1,10 @@
 import mysql.connector
 import datetime
 
-username = 'sql12714086'
-host="sql12.freesqldatabase.com"
-password = "fAbSxAerrP"
-database = "sql12714086"
+username = 'pass'
+host="pass"
+password = "pass"
+database = "pass"
 
 def update(PO, updated_date = None, updated_qty = None, date = False,qty = False):
   mydb = mysql.connector.connect(
