@@ -7,10 +7,10 @@
 
 import mysql.connector
 
-username = 'sql12714086'
-host="sql12.freesqldatabase.com"
-password = "fAbSxAerrP"
-database = "sql12714086"
+username = 'pass'
+host="pass"
+password = "pass"
+database = "pass"
 
 
 mydb = mysql.connector.connect(
